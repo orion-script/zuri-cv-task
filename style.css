@@ -1,0 +1,36 @@
+    body {
+        margin: auto;
+        padding: auto;
+        background: #fff;
+    }
+    
+    .image {
+        width: 8em;
+        height: 10rem;
+        border-radius: 150%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .name {
+        font-size: 40px;
+        color: black;
+        margin-top: -1.5rem;
+        text-align: center;
+    }
+    
+    .dev {
+        font-size: 30px;
+        color: black;
+        margin-top: -2rem;
+        text-align: center;
+    }
+    
+    .para {
+        font-size: 1rem;
+    }
+    
+    .container {
+        margin-left: 2rem;
+    }
